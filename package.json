@@ -1,0 +1,19 @@
+{
+  "name": "home-town-app",
+  "version": "1.0.0",
+  "description": "an app that shows everything about hometown",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinfox/home-town-app.git"
+  },
+  "author": "chinedum onyema",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chinfox/home-town-app/issues"
+  },
+  "homepage": "https://github.com/chinfox/home-town-app#readme"
+}
